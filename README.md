@@ -1,5 +1,5 @@
 # DesignPatterns
-Examples of common design patterns implemented in Java.
+Examples of common design patterns documented and implemented in Java.
 
 ## Strategy Pattern
 
